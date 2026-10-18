@@ -35,7 +35,7 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 | 4.  | 09.11. |  9:30-12:45 | Schematron       |
 | 5.  | 16.11. |  9:30-12:45 | PrintCSS         |
 | 6.  | 23.11. |  9:30-12:45 | PrintCSS         |
-| 7.  | 30.12. |  9:30-12:45 | Konsultation     |
+| 7.  | 30.12. |  9:30-12:45 | Trends / Konsultation     |
 | --  | 07.12. |  23:59      | Frist Datenabgabe |
 | 8.  | 14.12. |  9:30-12:45 | Prüfung          |
 
