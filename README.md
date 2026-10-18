@@ -29,15 +29,15 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 | Nr. | Datum  | Zeit        | Beschreibung     |
 |-----|--------|-------------|------------------|
-| 1.  | 23.10. |  9:30-12:45 | Einführung, JATS |
-| 2.  | 27.10. |  9:30-12:45 | XSLT             |
-| 3.  | 03.11. |  9:30-12:45 | XSLT             |
-| 4.  | 10.11. |  9:30-12:45 | Schematron       |
-| 5.  | 17.11. |  9:30-12:45 | PrintCSS         |
-| 6.  | 24.11. |  9:30-12:45 | PrintCSS         |
-| 7.  | 01.12. |  9:30-12:45 | Konsultation     |
-| --  | 12.12. | 23:59       | Frist Datenabgabe |
-| 8.  | 15.12. |  9:30-12:45 | Prüfung          |
+| 1.  | 19.10. |  9:30-12:45 | Einführung, JATS |
+| 2.  | 26.10. |  9:30-12:45 | XSLT             |
+| 3.  | 02.11. |  9:30-12:45 | XSLT             |
+| 4.  | 09.11. |  9:30-12:45 | Schematron       |
+| 5.  | 16.11. |  9:30-12:45 | PrintCSS         |
+| 6.  | 23.11. |  9:30-12:45 | PrintCSS         |
+| 7.  | 30.12. |  9:30-12:45 | Konsultation     |
+| --  | 07.12. |  23:59      | Frist Datenabgabe |
+| 8.  | 14.12. |  9:30-12:45 | Prüfung          |
 
 
 
@@ -96,9 +96,9 @@ Nachfragen können natürlich auch via E-Mail gestellt werden.
 
 ## Abgabe
 
-* bis 12.12. Daten abgeben
+* bis 07.12. Daten abgeben
 * XML, XSLT, Schematron, CSS, bei Bedarf Fonts
-* als Zip: `elpub5-2025_nachname_vorname.zip`
+* als Zip: `elpub5-2026_nachname_vorname.zip`
 * via E-Mail an martin.kraetke@le-tex.de
 
 ## Prüfungsablauf
@@ -136,7 +136,7 @@ https://www.w3schools.com/xml/xsl_functions.asp
 
 #### Spec
 
-https://www.w3.org/TR/xslt20/
+https://www.w3.org/TR/xslt-30/
 
 #### Bücher
 
@@ -181,5 +181,6 @@ Marko Hedler, Nico Kutscherauer: Schematron: effiziente XML Business Rules für 
 * [Antenna House: Introduction to CSS for Paged Media](https://www.antennahouse.com/hubfs/PDFS/CSS%20for%20Paged%20Media/CSS-Print-en-2019-02-15.pdf)
 
 #### PrintCSS Renderer
+
 * [Prince User Guide](https://www.princexml.com/doc/intro-userguide/)
 * [Prince Reference Guide](https://www.princexml.com/doc/css-props/#prop-prince-hyphenate-limit-lines)
